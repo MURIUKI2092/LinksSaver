@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  padding: 10px;
+  font-family:cursive;
+  min-width: 350px;
+}
+
+input{
+  width:100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+}
+button{
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  margin-top: 20px;
+  padding: 
+  5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 3px
+  ;
+  cursor: pointer;
+
+}
+ul{
+  margin-top: 25px;
+  list-style: none;
+  padding-left: 0%
+  ;
+}
+li{
+  margin-top: 5px;
+}
+ li a{
+  color: #016f32;
+}
